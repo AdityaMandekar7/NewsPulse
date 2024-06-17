@@ -1,0 +1,38 @@
+@keyframes blink {
+    0%, 100% {
+      opacity: 0.2;
+    }
+    50% {
+      opacity: 1;
+    }
+  }
+  
+  .spinner-grow {
+    margin: 10px;
+    animation: blink 1s infinite;
+  }
+  
+  .spinner-grow:nth-child(1) { animation-delay: 0.1s; }
+  .spinner-grow:nth-child(2) { animation-delay: 0.2s; }
+  .spinner-grow:nth-child(3) { animation-delay: 0.3s; }
+  .spinner-grow:nth-child(4) { animation-delay: 0.4s; }
+  .spinner-grow:nth-child(5) { animation-delay: 0.5s; }
+  .spinner-grow:nth-child(6) { animation-delay: 0.6s; }
+  .spinner-grow:nth-child(7) { animation-delay: 0.7s; }
+  .spinner-grow:nth-child(8) { animation-delay: 0.8s; }
+
+@keyframes colorChange {
+  0% {
+    color: rgb(0, 0, 0);
+  }
+  50% {
+    color: rgb(51, 80, 225);
+  }
+  100% {
+    color: rgb(0, 0, 0);
+  }
+}
+
+.animated-text {
+  animation: colorChange 3s infinite;
+}

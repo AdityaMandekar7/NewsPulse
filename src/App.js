@@ -1,25 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react';
+import Navbar from './Navbar';
+import News from './News';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+export default class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      selectedCategory: 'default',
+      selectedCountry: 'default',
+      selectedLanguage: 'default' // initial default value
+    };
+  }
+
+  categorySelect = (category) => {
+    this.setState({ selectedCategory: category });
+  };
+  countrySelect = (country) => {
+    this.setState({ selectedCountry: country });
+  };
+  languageSelect = (language) => {
+    this.setState({ selectedLanguage: language });
+  };
+
+  render() {
+    return (
+      <div>
+        <Navbar categorySelect={this.categorySelect} countrySelect={this.countrySelect} languageSelect={this.languageSelect} />
+        <News selectedCategory={this.state.selectedCategory} selectedCountry={this.state.selectedCountry} selectedLanguage={this.state.selectedLanguage} />
+      </div>
+    );
+  }
 }
-
-export default App;

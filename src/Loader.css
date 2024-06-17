@@ -1,0 +1,27 @@
+/* Center the loader and apply blur */
+.loader-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000; /* Ensure it is above other elements */
+  }
+  
+  .blur-background {
+    filter: blur(5px);
+    transition: filter 0.3s ease-in-out;
+  }
+  
+  .loader-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.8);
+    z-index: 999; /* Ensure it covers the entire background */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  

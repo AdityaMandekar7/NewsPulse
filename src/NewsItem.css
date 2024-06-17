@@ -1,0 +1,57 @@
+@keyframes animatedBackground {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animated-background {
+  background: linear-gradient(-45deg, #ff9a9e, #5c79dc, #f0f0f0, #e21898);
+  background-size: 400% 400%;
+  animation: animatedBackground 3s ease infinite;
+}
+
+.card {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+  height: fit-content;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card-img-top {
+  width: 100%;
+  height: auto;
+  border: #000000;
+  border-style:outset
+}
+
+.card-body {
+  padding: 15px;  
+}
+
+.card-title {
+  margin-top: 0;
+}
+
+.card-text {
+  margin-bottom: 10px;
+}
+
+.btn-dark {
+  background-color: #343a40;
+  border: none;
+}
+
+.btn-dark:hover {
+  background-color: #23272b;
+}

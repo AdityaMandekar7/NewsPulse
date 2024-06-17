@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "The Indian Express",
+            "title": "Scientists detect frost atop Mars’ volcanoes - The Indian Express",
+            "description": null,
+            "url": "https://indianexpress.com/article/technology/science/scientists-frost-mars-volcanoes-9385886/",
+            "urlToImage": null,
+            "publishedAt": "2024-06-11T12:27:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "NDTV News Desk",
+            "title": "Live Updates: Amit Shah Takes Charge, JP Nadda Returns As Health Minister - NDTV",
+            "description": "Amit Shah, S Jaishankar, Ashwini Vaishnaw, and JP Nadda were among the senior BJP leaders who assumed their respective offices in the Prime Minister Narendra Modi-led cabinet today.",
+            "url": "https://www.ndtv.com/india-news/live-updates-s-jaishankar-takes-charges-as-external-affairs-minister-as-newly-elected-ministers-in-narendra-modi-3-0-cabinet-take-oath-5863796",
+            "urlToImage": "https://c.ndtvimg.com/2024-06/1avj3gh_amit-shah-_625x300_11_June_24.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738?ver-20240506.08",
+            "publishedAt": "2024-06-11T11:42:16Z",
+            "content": "Modi 3.0 Cabinet Live: Amit Shah takes charge as Home Minister\r\nNew Delhi: Amit Shah, S Jaishankar, Ashwini Vaishnaw, and JP Nadda were among the senior BJP leaders who assumed their respective offic… [+15084 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Moneycontrol",
+            "title": "Ola Electric gets Sebi approval for Rs 7,250-crore IPO - Moneycontrol",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vdGVjaG5vbG9neS9vbGEtZWxlY3RyaWMtZ2V0cy1zZWJpLWFwcHJvdmFsLWZvci1ycy03MjUwLWNyb3JlLWlwby1hcnRpY2xlLTEyNzQ2MTA0Lmh0bWzSAXdodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL3RlY2hub2xvZ3kvb2xhLWVsZWN0cmljLWdldHMtc2ViaS1hcHByb3ZhbC1mb3ItcnMtNzI1MC1jcm9yZS1pcG8tYXJ0aWNsZS0xMjc0NjEwNC5odG1sL2FtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-11T11:29:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "India Education Diary",
+            "title": "IIT Madras & NASA Researchers study Multidrug-Resistant Pathogens on the International Space Station - India Education Diary",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL2luZGlhZWR1Y2F0aW9uZGlhcnkuaW4vaWl0LW1hZHJhcy1uYXNhLXJlc2VhcmNoZXJzLXN0dWR5LW11bHRpZHJ1Zy1yZXNpc3RhbnQtcGF0aG9nZW5zLW9uLXRoZS1pbnRlcm5hdGlvbmFsLXNwYWNlLXN0YXRpb24v0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-11T11:19:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Hindu",
+            "title": "Malawi’s Vice President, nine others killed in plane crash - The Hindu",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9uZXdzL2ludGVybmF0aW9uYWwvbWFsYXdpcy12aWNlLXByZXNpZGVudC1uaW5lLW90aGVycy1raWxsZWQtaW4tcGxhbmUtY3Jhc2gvYXJ0aWNsZTY4Mjc2ODg2LmVjZdIBfWh0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9uZXdzL2ludGVybmF0aW9uYWwvbWFsYXdpcy12aWNlLXByZXNpZGVudC1uaW5lLW90aGVycy1raWxsZWQtaW4tcGxhbmUtY3Jhc2gvYXJ0aWNsZTY4Mjc2ODg2LmVjZS9hbXAv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-11T10:53:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Hindustan Times",
+            "title": "Delhi minister's big allegation on Haryana amid water crisis in Capital - Hindustan Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9kZWxoaS1taW5pc3RlcnMtYmlnLWFsbGVnYXRpb24tb24taGFyeWFuYS1hbWlkLXdhdGVyLWNyaXNpcy1pbi1jYXBpdGFsLTEwMTcxODEwMTYwNzY0Ni5odG1s0gGJAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9pbmRpYS1uZXdzL2RlbGhpLW1pbmlzdGVycy1iaWctYWxsZWdhdGlvbi1vbi1oYXJ5YW5hLWFtaWQtd2F0ZXItY3Jpc2lzLWluLWNhcGl0YWwtMTAxNzE4MTAxNjA3NjQ2LWFtcC5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-11T10:47:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "'Not insulting Pakistan...': Ambati Rayudu senses major upset as Babar and Co. fight for World Cup survival vs Canada - Hindustan Times",
+            "description": "Ambati Rayudu issued a bold statement as Pakistan and set to meet Canada in the T20 World Cup 2024. | Crickit",
+            "url": "https://www.hindustantimes.com/cricket/ambati-rayudu-not-insulting-pakistan-babar-azam-fight-t20-world-cup-survival-vs-canada-senses-major-upset-101718100650032.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/11/1600x900/MixCollage-11-Jun-2024-03-29-PM-738_1718102672243_1718102676667.jpg",
+            "publishedAt": "2024-06-11T10:46:25Z",
+            "content": "Babar Azam's Pakistan side was reeling from an embarrassing defeat at the hands of the United States of America (USA) when the former world champions resumed their rivalry with arch-rivals India at t… [+2564 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Moneycontrol News",
+            "title": "7 Companies selected by NASA for the study of mars returned samples - Moneycontrol",
+            "description": "NASA has announced the proposal for Mars Sample Return (MSR) program. There are 7 companies that are assigned to do the studies on MRS program. As a reward each company will get $ 1.5 million.",
+            "url": "https://www.moneycontrol.com/science/7-companies-selected-by-nasa-for-the-study-of-mars-returned-samples-article-12746010.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/06/20240611104313_Untitled-design-45.jpg",
+            "publishedAt": "2024-06-11T10:46:10Z",
+            "content": "On June 7, NASA announced it has chosen a proposal for seven companies that are going to conduct 90-day studies on NASA's one of the most complex missions, the Mars Sample Return (MSR) program. These… [+1927 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Moneycontrol News",
+            "title": "Taking Stock: Sensex falls 550 pts from day's high on profit booking, Nifty closes flat at 23,265 - Moneycontrol",
+            "description": "Biggest losers on the Nifty included Kotak Mahindra Bank, Divi's Labs, and Asian Paints while biggest gainers were ONGC, L&amp;T, and Adani Ports among others.",
+            "url": "https://www.moneycontrol.com/news/business/markets/taking-stock-sensex-falls-550-pts-from-days-high-on-profit-booking-nifty-closes-flat-at-23265-12746017.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/05/20240525050907_market_flat.jpg",
+            "publishedAt": "2024-06-11T10:43:15Z",
+            "content": "The Nifty and Sensex ended traded mostly flat-to-positive on June 11, with NSE Nifty 50 reaching within touching distance of its all-time high that it hit in the previous session. However, the benchm… [+2343 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI News Desk",
+            "title": "Chandrababu Naidu to take oath as CM tomorrow, Amit Shah to leave for Andhra: Top developments - The Times of India",
+            "description": "India News: N Chandrababu Naidu unanimously elected as Andhra CM candidate, to take oath on June 12. NDA secured a majority in Andhra assembly elections with TDP,",
+            "url": "https://timesofindia.indiatimes.com/india/chandrababu-naidu-to-take-oath-as-cm-tomorrow-amit-shah-to-leave-for-andhra-top-developments/articleshow/110903705.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-110903806,width-1070,height-580,imgsize-855229,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-06-11T10:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Delhi's Nightmare: Massive Electricity Outage Amid Heatwave, Water Crisis - NDTV",
+            "description": "Delhi, dealing with the double whammy of an unprecedented heatwave and a severe water crisis, took a new blow this afternoon.",
+            "url": "https://www.ndtv.com/india-news/massive-electricity-outage-in-delhi-after-fire-at-power-grid-in-up-5866482",
+            "urlToImage": "https://c.ndtvimg.com/2021-10/si2o8bt_electricity-generic_625x300_16_October_21.jpg",
+            "publishedAt": "2024-06-11T10:28:51Z",
+            "content": "Several parts of Delhi have reported power outages (Representational)\r\nNew Delhi: Delhi, dealing with the double whammy of an unprecedented heatwave and a severe water crisis, took a new blow this af… [+3120 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Khel Now",
+            "title": "Qatar vs India Team News: Five changes likely as Blue Tigers chase FIFA World Cup Qualifiers Round 3 - Khel Now",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8va2hlbG5vdy5jb20vZm9vdGJhbGwvaW5kaWFuLWZvb3RiYWxsLXFhdGFyLXZzLWluZGlhLXRlYW0tbmV3cy0yMDI0MDbSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-11T10:19:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Abraham Thomas",
+            "title": "‘Sanctity affected, we need answers’: SC to Centre, NTA on NEET-UG ‘paper leak’ - Hindustan Times",
+            "description": "The SC refused to stay the counselling and will hear the matter on July 8 along with a pending petition raising alleged discrepancies in the test held on May 5 | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/sanctity-affected-we-need-answers-sc-to-centre-nta-on-neet-ug-paper-leak-101718098527832.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/11/1600x900/Supreme-Court-of-India---PTI-File-Photo-_1718098481586.jpg",
+            "publishedAt": "2024-06-11T09:35:27Z",
+            "content": "The Supreme Court on Tuesday sought a response from the National Testing Agency (NTA) and the Centre over a plea seeking fresh conduct of the NEET-UG medical entrance exam 2024, claiming that the san… [+4710 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "The Hindu",
+            "title": "HMD launches HMD 105 and HMD 110 feature phones with in-built UPI app in India - The Hindu",
+            "description": null,
+            "url": "https://www.thehindu.com/sci-tech/technology/gadgets/hmd-brings-hmd-105-and-hmd-110-feature-phones-to-india/article68276681.ece",
+            "urlToImage": null,
+            "publishedAt": "2024-06-11T09:32:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NDTV Movies",
+            "title": "Abhishek Bachchan's Shout Out To Amitabh Bachchan's Kalki 2898 AD Trailer: \"Mind Blowing\" - NDTV Movies",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5uZHR2LmNvbS9lbnRlcnRhaW5tZW50L2thbGtpLTI4OTgtYWQtdHJhaWxlci1oZXJlLXMtaG93LWFiaGlzaGVrLWJhY2hjaGFuLWdhdmUtYS1zaG91dC1vdXQtdG8tZmF0aGVyLWFtaXRhYmgtYmFjaGNoYW4tcy1maWxtLTU4NjU2OTTSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-11T09:28:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Gulam Jeelani",
+            "title": "Assembly Elections 2024: Who will be Odisha Chief Minister? All eyes on crucial BJP meeting today | Mint - Mint",
+            "description": "Who will be Odisha CM? Union Defence Minister Rajnath Singh and Union Environment Minister Bhupender Yadav have been appointed as party observers who will be in Odisha capital for the crucial BJP Legislature Party meeting today.",
+            "url": "https://www.livemint.com/politics/news/assembly-elections-2024-who-will-be-odisha-chief-minister-all-eyes-on-crucial-bjp-meeting-today-11718094870792.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/06/11/1600x900/ANI-20240529239-0_1718095051623_1718095066530.jpg",
+            "publishedAt": "2024-06-11T08:49:43Z",
+            "content": "After storming to power in Odisha for the first time by winning 78 of the 147 seats in the recently-concluded assembly elections, the Bharatiya Janta Party (BJP) is all set to elect its leader on Tue… [+3553 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Entertainment Desk",
+            "title": "Mirzapur Season 3 release date announced; Pankaj Tripathi, Ali Fazal show to be out on July 5 - Hindustan Times",
+            "description": "Save the date! Prime Video has announced the release date of highly anticipated Season 3 of Mirzapur with a brand new teaser. | Web Series",
+            "url": "https://www.hindustantimes.com/entertainment/web-series/mirzapur-season-3-release-date-announced-pankaj-tripathi-ali-fazal-show-to-be-out-on-july-5-101718088914669.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/11/1600x900/mir_1718089505718_1718089531613.jpg",
+            "publishedAt": "2024-06-11T07:56:11Z",
+            "content": "Fans were in for an exciting announcement on Tuesday afternoon, as Prime Video dropped the teaser of Mirzapur Season 3. For many who were eagerly awaiting the release date of the acclaimed show, the … [+1952 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India Today"
+            },
+            "author": "India Today World Desk",
+            "title": "Indian-origin man shoots dead brother after pizza party, kills self in New York - India Today",
+            "description": "A 33-year-old Indian-origin man in New York shot dead his younger brother and injured his mother before taking his own life Karamjit Multani barged into their room and shot his family members after they had a pizza party",
+            "url": "https://www.indiatoday.in/world/indians-abroad/story/indian-origin-man-killed-brother-injures-mother-new-york-us-suicide-murder-crime-news-pizza-party-2551663-2024-06-11",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/nypd-112044235-16x9_0.png?VersionId=pJtspdmDQOMgmW1Nk0sMDa3kKq9FNBj6",
+            "publishedAt": "2024-06-11T07:29:54Z",
+            "content": "A 33-year-old Indian-origin man in New York killed his younger brother and injured his mother before taking his own life, according to the New York Police Department's crime scene unit.\r\nKaramjit Mul… [+1387 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "The Indian Express",
+            "title": "Amaravati will be capital of Andhra Pradesh, Chandrababu Naidu says day ahead of his swearing in as CM - The Indian Express",
+            "description": null,
+            "url": "https://indianexpress.com/article/india/amravati-andhra-pradesh-capital-chandrababu-naid-chief-minister-9385039/",
+            "urlToImage": null,
+            "publishedAt": "2024-06-11T06:58:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Aadya+Jha",
+            "title": "8 signs that your digestive system is compromised - The Times of India",
+            "description": "Digestive system is a key player in your overall health. By paying attention to these signs and taking steps to improve your gut health, you can enhance not only your digestive system but also your general well-being.",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/web-stories/8-signs-that-your-digestive-system-is-compromised/photostory/110870005.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-110870353,imgsize-856212,width-900,height-1200,resizemode-6/110870353.jpg",
+            "publishedAt": "2024-06-11T06:30:00Z",
+            "content": "Difficulty concentrating and experiencing brain fog can be traced back to your gut. The gut-brain axis is a communication pathway linking the two, and when your gut is unhealthy, it can affect your c… [+18 chars]"
+        }
+    ]
+}
